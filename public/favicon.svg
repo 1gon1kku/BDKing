@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="蒼球">
+  <rect width="32" height="32" rx="7" fill="#140E0A"/>
+  <circle cx="16" cy="20" r="8" fill="#E39B3A"/>
+  <circle cx="16" cy="20" r="4.4" fill="#140E0A"/>
+  <circle cx="16" cy="13.2" r="6.4" fill="#2F6BFF"/>
+  <circle cx="13.8" cy="11" r="1.8" fill="#EFE6D6"/>
+</svg>

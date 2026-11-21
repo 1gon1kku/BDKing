@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "蒼球",
+      "hasCanvas": false,
+      "bodyTextLen": 252,
+      "bodyTextHash": "4e937d6fef45d205d6992a7479108861b86d0b1b7b5457a90a868f953d4080fe",
+      "bodyTextPrefix": "三人称・慣性玉 蒼球 ぶつけて、穴へ。 青玉を加速させて赤玉にぶつける。相手を穴に落とせば勝ち。自分が先に落ちれば負け。 同時",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "蒼球",
+      "hasCanvas": true,
+      "bodyTextLen": 252,
+      "bodyTextHash": "4e937d6fef45d205d6992a7479108861b86d0b1b7b5457a90a868f953d4080fe",
+      "bodyTextPrefix": "三人称・慣性玉 蒼球 ぶつけて、穴へ。 青玉を加速させて赤玉にぶつける。相手を穴に落とせば勝ち。自分が先に落ちれば負け。 同時",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
